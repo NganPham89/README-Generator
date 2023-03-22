@@ -15,6 +15,6 @@ A video demo of the app can be found [here](https://drive.google.com/file/d/1erw
 - A list of license is also provided to make selection easier
 
 ## Goals of this project
-[x] Learning various methods of Node.js, such as importing and exporting
-[x] Learning FS methods such as read, write, and append
-[x] Learning all the input options provided by inquirer
+- [x] Learning various methods of Node.js, such as importing and exporting
+- [x] Learning FS methods such as read, write, and append
+- [x] Learning all the input options provided by inquirer
